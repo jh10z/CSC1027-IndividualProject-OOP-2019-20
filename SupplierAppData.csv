@@ -1,0 +1,5 @@
+supCode,supName,bldNum,bldStreet,bldTown,bldPCode, bldCountry,supRegion
+1,Tesco,10,test,test,BT6 666,test,UNITED_KINGDOM
+proCode,proMake,proModel,proPrice,proQtyAvailable, proDiscontinued,supList
+1,Bread,X,20.0,1,true,1;
+2,Apple,11,699.0,10,false,1;
